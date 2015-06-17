@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UoM CS Grade Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="UoM_Logo">UoM_Logo</string>
+    <string name="title_activity_semester1">Semester 1</string>
+    <string name="button_Semester1">Semester 1</string>
+    <string name="button_Semester2">Semester 2</string>
+    <string name="label_welcome">Welcome back @username</string>
+    <string name="image_UoMLogo">UoMLogo</string>
+</resources>
